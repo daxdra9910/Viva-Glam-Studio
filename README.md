@@ -26,9 +26,9 @@ Este repositorio contiene una aplicación web en React para mostrar servicios de
 - cd backend
 -npm install
 
-Configuración de la Base de Datos
+## Configuración de la Base de Datos
 Asegúrate de tener MySQL instalado y crea una base de datos llamada Formulario.
 
-Usuario: root
-Contraseña: 12345
+- Usuario: root
+- Contraseña: 12345
 
