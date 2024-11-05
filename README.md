@@ -30,5 +30,5 @@ Este repositorio contiene una aplicación web en React para mostrar servicios de
 Asegúrate de tener MySQL instalado y crea una base de datos llamada Formulario.
 
 - Usuario: root
-- Contraseña: 12345
+- Contraseña: Contraseña de Usuario
 
